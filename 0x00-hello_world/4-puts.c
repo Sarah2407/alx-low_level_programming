@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - entry point
- *print output using put function
+ * main - entry point
+ * Return: output with puts function
  */
 int main(void)
 {
