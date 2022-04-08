@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *print output using puts function
- *main function is the entry point
+ *main - entry point
+ *print output using put function
  */
-int main (void)
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return 0;
