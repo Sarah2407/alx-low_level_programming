@@ -1,9 +1,9 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /**
- * main - entry point
- * Description: Get a random number, check whether its the last number, compare with 5
+ * main - main block
+ * Description: Get a random number, check whether its the last digit, compare with 5
  * Return: 0
  */
 int main(void)
