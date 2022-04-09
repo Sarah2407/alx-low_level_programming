@@ -2,7 +2,6 @@
 #include <stdlib.h>
 /**
  * main - main block 
- * Description: Print all possible different combinations of three digits
  * Return: 0
  */
 int main(void)
